@@ -1,0 +1,12 @@
+.header {
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url(../img/header-background.jpg);
+    min-height: 864px;
+    background-size: cover;
+    background-position: center;
+}
+
+.header__logo {
+    font-size: 1.5rem;
+    text-align: left;
+    font-weight: bold;
+}
